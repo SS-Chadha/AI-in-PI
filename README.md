@@ -35,8 +35,8 @@ Regulations and Standards: The development of AI in logistics must comply with e
 Human Workforce Transition: As AI and automation become more prevalent in the logistics sector, there will be a need to address potential workforce displacement and provide appropriate training and upskilling opportunities for employees.
 
 
-**Title: Unveiling the Role of Artificial Intelligence in the Physical Internet: A Comprehensive Exploration
-**
+# **Title: Unveiling the Role of Artificial Intelligence in the Physical Internet: A Comprehensive Exploration**
+
 Introduction:
 
 In the era of rapid digital transformation, the integration of Artificial Intelligence (AI) into various domains has revolutionized traditional paradigms, reshaping industries and paving the way for innovative solutions. Among these, the emergence of AI in the realm of Physical Internet (PI) heralds a profound transformation, promising to optimize logistics, streamline supply chains, and enhance the efficiency of global transportation networks. As we delve into the intricate nexus between AI and the Physical Internet, two pivotal research questions emerge: What are the most prevalent AI methods driving this evolution, and what potential AI methods hold the key to unlocking further advancements?
