@@ -1,5 +1,4 @@
-**an overview of the classification of Artificial Intelligence (AI), including its major branches and subfields:
-**
+**an overview of the classification of Artificial Intelligence (AI), including its major branches and subfields:**
 Artificial Intelligence (AI):
 
 Artificial Intelligence is the broad field of computer science that focuses on creating intelligent machines capable of simulating human-like intelligence.
