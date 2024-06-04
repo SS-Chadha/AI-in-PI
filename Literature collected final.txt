@@ -90,7 +90,7 @@
 89	Samadhiya, A., Agrawal, R., Kumar, A., & Garza-Reyes, J. A. (2023). Regenerating the logistics industry through the Physical Internet Paradigm: A systematic literature review and future research orchestration. Computers & Industrial Engineering, 109150.
 90	Sampaio, A., Savelsbergh, M., Veelenturf, L., & Van Woensel, T. (2019). Crowd-based city logistics. In Sustainable transportation and smart logistics (pp. 381-400). Elsevier.
 91	Shaikh, S. J., Pothen, A. S., & Montreuil, B. (2023). Hyperconnected Critical-Product Supply and Distribution System: Towards Autonomous Operations. IFAC-PapersOnLine, 56(2), 7579-7584.
-92	Shaikh, S. J., Pothen, A. S., & Montreuil, B. Hyperconnected and Autonomous Distribution System for Societally Critical Products.
+92	Shaikh, S. J., Pothen, A. S., & Montreuil, B. (2023). Hyperconnected and Autonomous Distribution System for Societally Critical Products. In 9th International Physical Internet Conference.
 93	Soebandrija, K. E. N., Hutabarat, D. P., Aerna, & Khair, F. (2018, December). Sustainable industrial systems within kernel density analysis of artificial intelligence and industry 4.0. In IOP Conference Series: Earth and Environmental Science (Vol. 195, No. 1, p. 012040). IOP Publishing.
 94	Suryavanshi, G. (2022). A conceptual framework for synchromodol port: an extension of synchromodality from hinterland transport to marine operations.
 95	Tamayo, S., Combes, F., & Gaudron, A. (2020). Unsupervised machine learning to analyze City Logistics through Twitter. Transportation research procedia, 46, 220-228.
